@@ -2,3 +2,5 @@ git status
 clear
 git add
 git commit -m "your messages"
+
+heloooo worlddd
